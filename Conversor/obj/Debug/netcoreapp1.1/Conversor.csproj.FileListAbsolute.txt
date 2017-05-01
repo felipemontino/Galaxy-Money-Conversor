@@ -1,0 +1,9 @@
+c:\users\felipe\documents\visual studio 2017\Projects\Conversor\Conversor\bin\Debug\netcoreapp1.1\Conversor.deps.json
+c:\users\felipe\documents\visual studio 2017\Projects\Conversor\Conversor\bin\Debug\netcoreapp1.1\Conversor.runtimeconfig.json
+c:\users\felipe\documents\visual studio 2017\Projects\Conversor\Conversor\bin\Debug\netcoreapp1.1\Conversor.runtimeconfig.dev.json
+c:\users\felipe\documents\visual studio 2017\Projects\Conversor\Conversor\obj\Debug\netcoreapp1.1\Conversor.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2017\Projects\Conversor\Conversor\obj\Debug\netcoreapp1.1\Conversor.AssemblyInfo.cs
+c:\users\felipe\documents\visual studio 2017\Projects\Conversor\Conversor\bin\Debug\netcoreapp1.1\Conversor.dll
+c:\users\felipe\documents\visual studio 2017\Projects\Conversor\Conversor\bin\Debug\netcoreapp1.1\Conversor.pdb
+c:\users\felipe\documents\visual studio 2017\Projects\Conversor\Conversor\obj\Debug\netcoreapp1.1\Conversor.dll
+c:\users\felipe\documents\visual studio 2017\Projects\Conversor\Conversor\obj\Debug\netcoreapp1.1\Conversor.pdb
